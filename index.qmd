@@ -1,0 +1,13 @@
+---
+title: "Richard Vo About Me (HW13)"
+author:
+  image: images/cat.jpg
+about:
+  template: trestles
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+

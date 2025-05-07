@@ -1,13 +1,43 @@
 ---
 title: "Richard Vo About Me (HW13)"
+
 author:
+  
   image: images/cat.jpg
+
 about:
+  
   template: trestles
+  image: images.jpg
 ---
+# Richard Vo
+Welcome to my website.
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<p>
+  <a href="mailto:richard.vo@ucdenver.edu">
+    <span class="iconify" data-icon="mdi:email" data-inline="false"></span>
+    richard.vo@ucdenver.edu
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/">
+    <span class="iconify" data-icon="fa-brands:github" data-inline="false"></span>
+    GitHub
+  </a>
+</p>
+
+## Skills
+
+- Sad
+- Data Wrangling
+- Machine Learning
+
+## Education 
+
+- B.A. Computer Science, UCDenver
+- GPA 3.5
+- Relevant Courses: Algorithms, Data Wrangling and Visualization, and Emotional Management
+
+
 
 

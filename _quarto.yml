@@ -8,13 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: hobbies.qmd
+        text: Hobbies
 
 format:
   html:
     theme: vapor
     css: styles.css
     toc: true
-
+    include-in-header: _includes/iconify.html
 
 
